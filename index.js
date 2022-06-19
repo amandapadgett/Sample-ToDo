@@ -5,7 +5,7 @@ function App() {
             isCompleted: false,
         },
         {
-            text: 'build todo app',
+            text: 'complete assignment',
             isCompleted: false,
         },
         {
